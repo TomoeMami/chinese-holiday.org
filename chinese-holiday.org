@@ -25,3 +25,16 @@
 %%(diary-block 2026 10 1 2026 10 7) 🏮中秋🏮
 %%(diary-date 2026 9 20) 💼国庆💼
 %%(diary-date 2026 10 10) 💼国庆💼
+** 2027假日
+%%(diary-block 2027 1 1 2027 1 3) 🏮元旦🏮
+%%(diary-block 2027 2 5 2027 2 13) 🏮春节🏮
+%%(diary-date 2027 1 31) 💼春节💼
+%%(diary-date 2027 2 14) 💼春节💼
+%%(diary-block 2027 4 3 2027 4 5) 🏮清明🏮
+%%(diary-block 2027 5 1 2027 5 5) 🏮劳动节🏮
+%%(diary-date 2027 5 8) 💼劳动节💼
+%%(diary-date 2027 6 9) 🏮端午🏮
+%%(diary-date 2027 9 15) 🏮中秋🏮
+%%(diary-block 2027 10 1 2027 10 7) 🏮国庆🏮
+%%(diary-date 2027 9 26) 💼国庆💼
+%%(diary-date 2027 10 9) 💼国庆💼
